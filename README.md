@@ -1,6 +1,6 @@
 ## 🔗 Profiles & Tech Stack
 
-![LeetCode](https://img.shields.io/badge/LeetCode-CodeCrusher24-orange?logo=leetcode&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-CodeCrusher24-orange?logo=leetcode&logoColor=white)](https://leetcode.com/CodeCrusher24/)
 ![PostgreSQL](https://img.shields.io/badge/Language-PostgreSQL-blue?logo=postgresql&logoColor=white)
 
 ---
