@@ -3,4 +3,5 @@ SELECT contest_id, ROUND (
     (SELECT COUNT(user_id) FROM Users)
     , 2 ) AS percentage
     FROM Register
-    GROUP BY contest_id ORDER BY percentage DESC, contest_id ASC;
+    GROUP BY contest_id 
+    ORDER BY percentage DESC, contest_id ASC;
